@@ -1,0 +1,1 @@
+emergency = ["SOS","SAVE ME","EMERGENCY","ALERT","DANGER"]
